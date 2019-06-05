@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstAppWithGael</string>
+    <string name="txvTitle">Hello Dude !</string>
+    <string name="edtMessage">Ajoute ton texte ici :</string>
+    <string name="btnAdd">Ajouter</string>
+    <string name="ad_message">Do you want to cpoy paste the folowing sentence %1$s</string>
+    <string name="ad_yes">Oui</string>
+    <string name="ad_no">Non</string>
+    <string name="toolbar_deleteAll">Non</string>
+</resources>
